@@ -1,0 +1,8 @@
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/calculator-unit-testing/Calculator/bin/Debug/netstandard2.0/Calculator.deps.json
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/calculator-unit-testing/Calculator/bin/Debug/netstandard2.0/Calculator.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/calculator-unit-testing/Calculator/bin/Debug/netstandard2.0/Calculator.pdb
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/calculator-unit-testing/Calculator/obj/Debug/netstandard2.0/Calculator.csprojAssemblyReference.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/calculator-unit-testing/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfoInputs.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/calculator-unit-testing/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfo.cs
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/calculator-unit-testing/Calculator/obj/Debug/netstandard2.0/Calculator.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/calculator-unit-testing/Calculator/obj/Debug/netstandard2.0/Calculator.pdb
